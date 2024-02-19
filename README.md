@@ -5,6 +5,7 @@ Initial commit - added jupyter notebook and Resources folder to git repository.
 
 person 1 - @Patric Beaven 
 tasks -  Category  dataframe creation and save to csv, Sub-category datatframe creation
+
 person 2 -  @Vijay
 tasks - Sub-category dataframe  save to csv, campaign dataframe save to csv,  Contacts dataframe creation and save to csv.
 
