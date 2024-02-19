@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-Project 2 ETL - Group work. Group 6
+## Project 2 ETL - Group work. Group 6
 
 Initial commit - added jupyter notebook and Resources folder to git repository.
 
