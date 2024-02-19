@@ -15,6 +15,7 @@ tasks -  Campaign dataframe creation
 person 4 - @Rhea
 tasks - crowdfunding database creation
 
+tested sql in postgreSQL.
 
 uploaded completed jupyter notebook and crowdfunding_db_schema.
 
