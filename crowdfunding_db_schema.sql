@@ -14,11 +14,12 @@ CREATE TABLE subcategory(
 CREATE TABLE contacts(
         contact_id INTEGER NOT NULL PRIMARY KEY,
         first_name VARCHAR NOT NULL, 
-        last_name VARCHAR NOT NULL
+        last_name VARCHAR NOT NULL,
+        email VARCHAR NOT NULL
 );
 
 CREATE TABLE campaigns(
-        cf_id INTEGER NOT NULL,
+        cf_id INTEGER NOT NULL PRIMARY KEY,
         contact_id INTEGER NOT NULL,
         company_name VARCHAR NOT NULL,
         description VARCHAR NOT NULL,
@@ -38,7 +39,7 @@ CREATE TABLE campaigns(
 );
 
 
-Select * from category
-Select * from subcategory
-Select * from contacts
-Select * from campaigns
+Select * from category;
+Select * from subcategory;
+Select * from contacts;
+Select * from campaigns;
